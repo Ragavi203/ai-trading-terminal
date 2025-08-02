@@ -16,12 +16,6 @@ AI Trading Terminal is a production-ready financial intelligence platform that c
 
 ---
 
-## **[Live Demo](https://your-app.streamlit.app)**
-
-> Experience the platform in action with real market data
-
----
-
 ## Key Features
 
 ### Advanced AI & Machine Learning
@@ -474,3 +468,4 @@ For commercial licensing inquiries: ragavim2003@gmail.com
 *Built with care for the financial technology community*
 
 </div>
+
